@@ -8,7 +8,7 @@
 В результате тестирования выявлены следующие *дефекты*:
 
 * Некорректное отображение общего процента бонуса при добавлении дополнительного бонуса к постоянному:
-  
+  https://github.com/ElizavetaShkryabiy/JavaHW2-t2/issues/1
 
 
 В качестве *тестовых данных* использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/programming:
